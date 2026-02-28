@@ -1,0 +1,12 @@
+{
+    "name": "my-skill",
+    "description": "What this skill adds to Omega Claw",
+    "version": "1.0.0",
+    "intents": {
+        "skill:action": [
+            "trigger phrase 1",
+            "trigger phrase 2"
+        ]
+    },
+    "handler": "handler.py"
+}
