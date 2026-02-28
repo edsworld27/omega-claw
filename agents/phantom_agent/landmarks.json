@@ -1,0 +1,46 @@
+{
+    "2048x1152_primary": {
+        "chat_input": {
+            "x_rel": 0.85,
+            "y_rel": 0.95
+        },
+        "accept_all": {
+            "x_rel": 0.95,
+            "y_rel": 0.92
+        },
+        "model_selector": {
+            "x_rel": 0.40,
+            "y_rel": 0.97
+        },
+        "stop_generation": {
+            "x_rel": 0.97,
+            "y_rel": 0.95
+        }
+    },
+    "1920x1080_secondary": {
+        "chat_input": {
+            "x_rel": 0.85,
+            "y_rel": 0.95
+        },
+        "accept_all": {
+            "x_rel": 0.95,
+            "y_rel": 0.92
+        },
+        "model_selector": {
+            "x_rel": 0.42,
+            "y_rel": 0.97
+        },
+        "stop_generation": {
+            "x_rel": 0.98,
+            "y_rel": 0.95
+        },
+        "external_ai_input": {
+            "x_rel": 0.5,
+            "y_rel": 0.85
+        },
+        "external_ai_submit": {
+            "x_rel": 0.9,
+            "y_rel": 0.85
+        }
+    }
+}
