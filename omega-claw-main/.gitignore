@@ -1,0 +1,19 @@
+# Secrets (SECURITY.xml §1.1)
+.env
+.env.local
+.env.production
+*.pem
+*.key
+*.p12
+.trusted_hashes.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data
+*.db
+
+# System
+.DS_Store
